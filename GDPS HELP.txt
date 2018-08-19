@@ -1,0 +1,4 @@
+--------------#GDPS HELP#------------------
+Help with replacing libcocos2dapp (HxD: www.boomlings.com to d2lsbHkwMTIudWV1by5jb20= )
+Change AndroidManifest.xml (inside: com.robtopx.geometryjump to com.willy012.geometrydash )
+---------------#END OF GDPS HELP#------------
