@@ -1,4 +1,11 @@
---------------#GDPS HELP#------------------
+--------------#GDPS HELP Android >:( #------------------
 Help with replacing libcocos2dapp (HxD: www.boomlings.com to d2lsbHkwMTIudWV1by5jb20= )
 Change AndroidManifest.xml (inside: com.robtopx.geometryjump to com.willy012.geometrydash )
+
+Also when forked,download the gd 2.0 apk and do this
 ---------------#END OF GDPS HELP#------------
+--------------#GDPS HELP PC < :) #--------------------
+in the 2.0 version of GeometryDash.exe
+
+Change www.boonlings.com to willy012.ueuo.com inside .exe file
+--------------#END OF GDPS HELP PC#-------------------
