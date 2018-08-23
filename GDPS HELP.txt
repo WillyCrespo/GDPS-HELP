@@ -1,4 +1,8 @@
 --------------#GDPS HELP#------------------
+This is for the APK so you can get your GDPS on android:
 Help with replacing libcocos2dapp (HxD: www.boomlings.com to d2lsbHkwMTIudWV1by5jb20= )
 Change AndroidManifest.xml (inside: com.robtopx.geometryjump to com.willy012.geometrydash )
+
+On PC it's the same except you hex edit GeometryDash.exe HxD: www.boomlings.com to yourGdpsLink and also you have to change the base64 value translate www.boomlings.com to base64 and replace that by your GDPS link in base64.
+Make sure your GDPS link is the same lenght as either; www.boomlings.com or www.boomlings.com/database
 ---------------#END OF GDPS HELP#------------
